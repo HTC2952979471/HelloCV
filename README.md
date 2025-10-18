@@ -7,3 +7,5 @@ https://www.yuque.com/r/note/10a36b05-5a02-4662-9090-3de51659d449?#《火腿肠 
 https://www.yuque.com/r/note/331c733e-d638-4bb1-8361-22e6bc61167b?#《火腿肠 的小记：Git的使用1.创...》
 
 https://www.yuque.com/r/note/db09e47d-229f-42e1-8aaf-62c6121a8b47?#《火腿肠 的小记：Opencv4.5...》
+
+https://www.yuque.com/r/note/2a05d5ff-36e3-4f5b-90c7-c8c822816cc0?#《火腿肠 的小记：CMake1.第一...》
