@@ -13,3 +13,7 @@ https://www.yuque.com/r/note/2a05d5ff-36e3-4f5b-90c7-c8c822816cc0?#《火腿肠 
 https://www.yuque.com/r/note/1edfdbae-c92c-4f91-aa59-a4d639ace825?#《火腿肠 的小记：Docker1.D...》
 
 https://www.yuque.com/r/note/284603c2-1b97-4e58-80aa-02aacc370ac4?#《火腿肠 的小记：CryptoToo...》
+
+https://www.yuque.com/r/note/fecc0aee-3d5f-41bb-a3c9-0bd5742ea91d?#《火腿肠 的小记：OpenCV的使用...》
+
+https://www.yuque.com/r/note/53b325a6-05bf-4eb4-8268-5b330f837648?#《火腿肠 的小记：第二阶段第三周作业...》
